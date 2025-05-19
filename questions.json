@@ -1,0 +1,20 @@
+{
+    "questions": [
+        {
+            "question": "What year was C++ created?",
+            "options": ["1979", "1983", "1985", "1991"],
+            "correct": "C",
+            "time_limit": 20
+        },
+        {
+            "question": "Who invented C++?",
+            "options": [
+                "Dennis Ritchie",
+                "Bjarne Stroustrup",
+                "James Gosling",
+                "Linus Torvalds"
+            ],
+            "correct": "B"
+        }
+    ]
+}
